@@ -1,0 +1,155 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/639/branches/1.0/thirdparties/win32/include/libavutil
+END
+error.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/639/branches/1.0/thirdparties/win32/include/libavutil/error.h
+END
+avconfig.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/639/branches/1.0/thirdparties/win32/include/libavutil/avconfig.h
+END
+adler32.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/639/branches/1.0/thirdparties/win32/include/libavutil/adler32.h
+END
+sha1.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/639/branches/1.0/thirdparties/win32/include/libavutil/sha1.h
+END
+avstring.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/639/branches/1.0/thirdparties/win32/include/libavutil/avstring.h
+END
+mathematics.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/639/branches/1.0/thirdparties/win32/include/libavutil/mathematics.h
+END
+pixdesc.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/639/branches/1.0/thirdparties/win32/include/libavutil/pixdesc.h
+END
+intreadwrite.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/639/branches/1.0/thirdparties/win32/include/libavutil/intreadwrite.h
+END
+avutil.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/639/branches/1.0/thirdparties/win32/include/libavutil/avutil.h
+END
+lzo.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/639/branches/1.0/thirdparties/win32/include/libavutil/lzo.h
+END
+pixfmt.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/639/branches/1.0/thirdparties/win32/include/libavutil/pixfmt.h
+END
+crc.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/639/branches/1.0/thirdparties/win32/include/libavutil/crc.h
+END
+lfg.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/639/branches/1.0/thirdparties/win32/include/libavutil/lfg.h
+END
+rational.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/639/branches/1.0/thirdparties/win32/include/libavutil/rational.h
+END
+bswap.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/639/branches/1.0/thirdparties/win32/include/libavutil/bswap.h
+END
+mem.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/639/branches/1.0/thirdparties/win32/include/libavutil/mem.h
+END
+random_seed.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/639/branches/1.0/thirdparties/win32/include/libavutil/random_seed.h
+END
+log.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/639/branches/1.0/thirdparties/win32/include/libavutil/log.h
+END
+fifo.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/639/branches/1.0/thirdparties/win32/include/libavutil/fifo.h
+END
+base64.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/639/branches/1.0/thirdparties/win32/include/libavutil/base64.h
+END
+md5.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/639/branches/1.0/thirdparties/win32/include/libavutil/md5.h
+END
+intfloat_readwrite.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/639/branches/1.0/thirdparties/win32/include/libavutil/intfloat_readwrite.h
+END
+attributes.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/639/branches/1.0/thirdparties/win32/include/libavutil/attributes.h
+END
+eval.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/639/branches/1.0/thirdparties/win32/include/libavutil/eval.h
+END
+common.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/639/branches/1.0/thirdparties/win32/include/libavutil/common.h
+END

@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/639/branches/1.0/tinyDSHOW/src
+END
+DSDisplayGraph.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/639/branches/1.0/tinyDSHOW/src/DSDisplayGraph.cxx
+END
+Resizer.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/639/branches/1.0/tinyDSHOW/src/Resizer.cxx
+END
+DSUtils.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/639/branches/1.0/tinyDSHOW/src/DSUtils.cxx
+END
+DSDisplayOverlay.VMR9.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/639/branches/1.0/tinyDSHOW/src/DSDisplayOverlay.VMR9.cxx
+END
+DSGrabber.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/639/branches/1.0/tinyDSHOW/src/DSGrabber.cxx
+END
+VideoGrabberName.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/639/branches/1.0/tinyDSHOW/src/VideoGrabberName.cxx
+END
+DSDisplay.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/639/branches/1.0/tinyDSHOW/src/DSDisplay.cxx
+END
+VideoDisplayName.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/639/branches/1.0/tinyDSHOW/src/VideoDisplayName.cxx
+END
+DSOutputFilter.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/639/branches/1.0/tinyDSHOW/src/DSOutputFilter.cxx
+END
+DSDisplayOverlay.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/639/branches/1.0/tinyDSHOW/src/DSDisplayOverlay.cxx
+END
+DSDisplayOverlay.VMR.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/639/branches/1.0/tinyDSHOW/src/DSDisplayOverlay.VMR.cxx
+END
+DSOutputStream.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/639/branches/1.0/tinyDSHOW/src/DSOutputStream.cxx
+END
+DSCaptureFormat.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/639/branches/1.0/tinyDSHOW/src/DSCaptureFormat.cxx
+END
+DSFrameRateFilter.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/639/branches/1.0/tinyDSHOW/src/DSFrameRateFilter.cxx
+END
+DSCaptureUtils.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/639/branches/1.0/tinyDSHOW/src/DSCaptureUtils.cxx
+END
+DSCaptureGraph.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/639/branches/1.0/tinyDSHOW/src/DSCaptureGraph.cxx
+END

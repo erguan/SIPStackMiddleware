@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/639/branches/1.0/tinyXCAP2/test
+END
+stdafx.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/639/branches/1.0/tinyXCAP2/test/stdafx.h
+END
+test_xcap.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/639/branches/1.0/tinyXCAP2/test/test_xcap.h
+END
+test_xdmc.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/639/branches/1.0/tinyXCAP2/test/test_xdmc.h
+END
+test.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/639/branches/1.0/tinyXCAP2/test/test.vcproj
+END
+test_rlist.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/639/branches/1.0/tinyXCAP2/test/test_rlist.h
+END
+test_gsma_rcs.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/639/branches/1.0/tinyXCAP2/test/test_gsma_rcs.h
+END
+test_rls.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/639/branches/1.0/tinyXCAP2/test/test_rls.h
+END
+targetver.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/639/branches/1.0/tinyXCAP2/test/targetver.h
+END
+test.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/639/branches/1.0/tinyXCAP2/test/test.c
+END
+test_oma-pres-rules.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/639/branches/1.0/tinyXCAP2/test/test_oma-pres-rules.h
+END
+test_async.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/639/branches/1.0/tinyXCAP2/test/test_async.h
+END
+test_oma-directory.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/639/branches/1.0/tinyXCAP2/test/test_oma-directory.h
+END
+test_xcap-caps.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/639/branches/1.0/tinyXCAP2/test/test_xcap-caps.h
+END
+test_http.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/639/branches/1.0/tinyXCAP2/test/test_http.h
+END
+test_selector.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/639/branches/1.0/tinyXCAP2/test/test_selector.h
+END
+test_oma-pres-cont.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/639/branches/1.0/tinyXCAP2/test/test_oma-pres-cont.h
+END
+stdafx.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/639/branches/1.0/tinyXCAP2/test/stdafx.c
+END
+test_ietf-pres-rules.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/639/branches/1.0/tinyXCAP2/test/test_ietf-pres-rules.h
+END

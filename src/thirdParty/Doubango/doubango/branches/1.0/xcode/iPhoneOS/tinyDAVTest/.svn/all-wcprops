@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/639/branches/1.0/xcode/iPhoneOS/tinyDAVTest
+END
+main.m
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/639/branches/1.0/xcode/iPhoneOS/tinyDAVTest/main.m
+END
+AppDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/639/branches/1.0/xcode/iPhoneOS/tinyDAVTest/AppDelegate.h
+END
+Info.plist
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/639/branches/1.0/xcode/iPhoneOS/tinyDAVTest/Info.plist
+END
+AppDelegate.m
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/639/branches/1.0/xcode/iPhoneOS/tinyDAVTest/AppDelegate.m
+END
+MainWindow.xib
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/639/branches/1.0/xcode/iPhoneOS/tinyDAVTest/MainWindow.xib
+END

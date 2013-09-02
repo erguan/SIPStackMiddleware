@@ -1,0 +1,104 @@
+10
+
+dir
+994
+http://doubango.googlecode.com/svn/branches/1.0/thirdparties/android/include
+http://doubango.googlecode.com/svn
+
+
+
+2011-08-10T22:59:15.960359Z
+639
+bossiel@yahoo.fr
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+c7b0ae48-b0eb-11de-8bdf-3374eb5c7316
+
+opencore-amrwb
+dir
+
+theora
+dir
+
+BroadVoice16
+dir
+
+speex
+dir
+
+libswscale
+dir
+
+g729a
+dir
+
+g729b
+dir
+
+libavutil
+dir
+
+libavcodec
+dir
+
+vorbis
+dir
+
+libavcore
+dir
+
+opencore-amrnb
+dir
+
+ilbc
+dir
+
+gsm.h
+file
+
+
+
+
+2013-09-02T02:56:29.000000Z
+e4e47e4a479cb77f0f37274151e8b982
+2011-08-10T22:59:15.960359Z
+639
+bossiel@yahoo.fr
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1681
+
+ogg
+dir
+

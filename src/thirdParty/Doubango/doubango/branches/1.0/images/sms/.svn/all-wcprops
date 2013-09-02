@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/639/branches/1.0/images/sms
+END
+rp-data-ntoms-format.PNG
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/639/branches/1.0/images/sms/rp-data-ntoms-format.PNG
+END
+rp-data-mston-format.PNG
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/639/branches/1.0/images/sms/rp-data-mston-format.PNG
+END
+gsm_alphabet_7bits.PNG
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/639/branches/1.0/images/sms/gsm_alphabet_7bits.PNG
+END
+sms-over-ip-sender.PNG
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/639/branches/1.0/images/sms/sms-over-ip-sender.PNG
+END
+sip_register.PNG
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/639/branches/1.0/images/sms/sip_register.PNG
+END
+sms-over-ip-receiver.PNG
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/639/branches/1.0/images/sms/sms-over-ip-receiver.PNG
+END
+rp-ack-format.PNG
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/639/branches/1.0/images/sms/rp-ack-format.PNG
+END
+rp-data-submit.PNG
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/639/branches/1.0/images/sms/rp-data-submit.PNG
+END
+sip_sms-over-ip-sender.PNG
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/639/branches/1.0/images/sms/sip_sms-over-ip-sender.PNG
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/765/branches/2.0/doubango/thirdparties/android/include/libavcore
+END
+parseutils.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/765/branches/2.0/doubango/thirdparties/android/include/libavcore/parseutils.h
+END
+imgutils.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/765/branches/2.0/doubango/thirdparties/android/include/libavcore/imgutils.h
+END
+avcore.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/765/branches/2.0/doubango/thirdparties/android/include/libavcore/avcore.h
+END

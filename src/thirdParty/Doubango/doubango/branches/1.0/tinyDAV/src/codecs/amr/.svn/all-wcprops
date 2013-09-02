@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/639/branches/1.0/tinyDAV/src/codecs/amr
+END
+tdav_codec_amr.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/639/branches/1.0/tinyDAV/src/codecs/amr/tdav_codec_amr.c
+END

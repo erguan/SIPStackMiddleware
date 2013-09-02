@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/639/branches/1.0/tinySMS/src
+END
+tsms_common.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/639/branches/1.0/tinySMS/src/tsms_common.c
+END
+tsms_packing.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/639/branches/1.0/tinySMS/src/tsms_packing.c
+END
+tsms.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/639/branches/1.0/tinySMS/src/tsms.c
+END
+tsms_address.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/639/branches/1.0/tinySMS/src/tsms_address.c
+END

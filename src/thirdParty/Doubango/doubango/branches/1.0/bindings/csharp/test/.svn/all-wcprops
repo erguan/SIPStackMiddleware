@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/639/branches/1.0/bindings/csharp/test
+END
+Program.cs
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/639/branches/1.0/bindings/csharp/test/Program.cs
+END
+test.csproj.user
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/639/branches/1.0/bindings/csharp/test/test.csproj.user
+END
+test.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/639/branches/1.0/bindings/csharp/test/test.csproj
+END

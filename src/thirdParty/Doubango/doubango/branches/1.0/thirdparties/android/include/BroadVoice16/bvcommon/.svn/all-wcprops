@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/639/branches/1.0/thirdparties/android/include/BroadVoice16/bvcommon
+END
+basop32.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/639/branches/1.0/thirdparties/android/include/BroadVoice16/bvcommon/basop32.h
+END
+memutil.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/639/branches/1.0/thirdparties/android/include/BroadVoice16/bvcommon/memutil.h
+END
+typedef.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/639/branches/1.0/thirdparties/android/include/BroadVoice16/bvcommon/typedef.h
+END
+bvcommon.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/639/branches/1.0/thirdparties/android/include/BroadVoice16/bvcommon/bvcommon.h
+END
+utility.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/639/branches/1.0/thirdparties/android/include/BroadVoice16/bvcommon/utility.h
+END
+mathutil.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/639/branches/1.0/thirdparties/android/include/BroadVoice16/bvcommon/mathutil.h
+END

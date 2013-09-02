@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/639/branches/1.0/tinyDAV/include/tinydav/audio/coreaudio
+END
+tdav_producer_coreaudio.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/639/branches/1.0/tinyDAV/include/tinydav/audio/coreaudio/tdav_producer_coreaudio.h
+END
+tdav_consumer_coreaudio.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/639/branches/1.0/tinyDAV/include/tinydav/audio/coreaudio/tdav_consumer_coreaudio.h
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/639/branches/1.0/thirdparties/win32/bin/ffmpeg
+END
+avcodec-52.dll
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/639/branches/1.0/thirdparties/win32/bin/ffmpeg/avcodec-52.dll
+END
+swscale-0.11.0.dll
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/639/branches/1.0/thirdparties/win32/bin/ffmpeg/swscale-0.11.0.dll
+END
+swscale-0.dll
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/639/branches/1.0/thirdparties/win32/bin/ffmpeg/swscale-0.dll
+END
+avcodec-52.74.1.dll
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/639/branches/1.0/thirdparties/win32/bin/ffmpeg/avcodec-52.74.1.dll
+END
+swscale.dll
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/639/branches/1.0/thirdparties/win32/bin/ffmpeg/swscale.dll
+END
+avcodec.dll
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/639/branches/1.0/thirdparties/win32/bin/ffmpeg/avcodec.dll
+END

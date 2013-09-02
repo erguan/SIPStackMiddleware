@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/639/branches/1.0/thirdparties/android/lib/pkgconfig
+END
+theoradec.pc
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/639/branches/1.0/thirdparties/android/lib/pkgconfig/theoradec.pc
+END
+opencore-amrwb.pc
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/639/branches/1.0/thirdparties/android/lib/pkgconfig/opencore-amrwb.pc
+END
+theora.pc
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/639/branches/1.0/thirdparties/android/lib/pkgconfig/theora.pc
+END
+x264.pc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/639/branches/1.0/thirdparties/android/lib/pkgconfig/x264.pc
+END
+vorbis.pc
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/639/branches/1.0/thirdparties/android/lib/pkgconfig/vorbis.pc
+END
+vorbisfile.pc
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/639/branches/1.0/thirdparties/android/lib/pkgconfig/vorbisfile.pc
+END
+opencore-amrnb.pc
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/639/branches/1.0/thirdparties/android/lib/pkgconfig/opencore-amrnb.pc
+END
+theoraenc.pc
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/639/branches/1.0/thirdparties/android/lib/pkgconfig/theoraenc.pc
+END
+libswscale.pc
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/639/branches/1.0/thirdparties/android/lib/pkgconfig/libswscale.pc
+END
+vorbisenc.pc
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/639/branches/1.0/thirdparties/android/lib/pkgconfig/vorbisenc.pc
+END
+libavcodec.pc
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/639/branches/1.0/thirdparties/android/lib/pkgconfig/libavcodec.pc
+END
+libavutil.pc
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/639/branches/1.0/thirdparties/android/lib/pkgconfig/libavutil.pc
+END
+ogg.pc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/639/branches/1.0/thirdparties/android/lib/pkgconfig/ogg.pc
+END

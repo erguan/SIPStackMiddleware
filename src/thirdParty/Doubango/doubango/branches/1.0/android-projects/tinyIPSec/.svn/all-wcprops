@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/639/branches/1.0/android-projects/tinyIPSec
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/639/branches/1.0/android-projects/tinyIPSec/.project
+END
+.cproject
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/639/branches/1.0/android-projects/tinyIPSec/.cproject
+END
+makefile
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/639/branches/1.0/android-projects/tinyIPSec/makefile
+END

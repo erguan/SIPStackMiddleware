@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/639/branches/1.0/tinyDAV/src/audio/waveapi
+END
+tdav_consumer_waveapi.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/639/branches/1.0/tinyDAV/src/audio/waveapi/tdav_consumer_waveapi.c
+END
+tdav_producer_waveapi.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/639/branches/1.0/tinyDAV/src/audio/waveapi/tdav_producer_waveapi.c
+END

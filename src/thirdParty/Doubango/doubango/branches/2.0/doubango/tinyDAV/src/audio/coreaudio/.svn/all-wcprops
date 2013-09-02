@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/900/branches/2.0/doubango/tinyDAV/src/audio/coreaudio
+END
+tdav_consumer_audioqueue.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/880/branches/2.0/doubango/tinyDAV/src/audio/coreaudio/tdav_consumer_audioqueue.c
+END
+tdav_audiounit.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/820/branches/2.0/doubango/tinyDAV/src/audio/coreaudio/tdav_audiounit.c
+END
+tdav_producer_audiounit.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/900/branches/2.0/doubango/tinyDAV/src/audio/coreaudio/tdav_producer_audiounit.c
+END
+tdav_producer_audioqueue.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/880/branches/2.0/doubango/tinyDAV/src/audio/coreaudio/tdav_producer_audioqueue.c
+END
+tdav_consumer_audiounit.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/900/branches/2.0/doubango/tinyDAV/src/audio/coreaudio/tdav_consumer_audiounit.c
+END

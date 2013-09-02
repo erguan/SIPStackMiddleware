@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/530/branches/2.0/testT140
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/526/branches/2.0/testT140/.classpath
+END
+project.properties
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/526/branches/2.0/testT140/project.properties
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/526/branches/2.0/testT140/.project
+END
+proguard-project.txt
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/526/branches/2.0/testT140/proguard-project.txt
+END
+AndroidManifest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/526/branches/2.0/testT140/AndroidManifest.xml
+END
+ic_launcher-web.png
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/526/branches/2.0/testT140/ic_launcher-web.png
+END

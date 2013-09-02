@@ -1,0 +1,123 @@
+10
+
+dir
+994
+http://doubango.googlecode.com/svn/branches/2.0/doubango/bindings
+http://doubango.googlecode.com/svn
+
+
+
+2013-07-29T06:05:35.822105Z
+974
+bossiel@yahoo.fr
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+c7b0ae48-b0eb-11de-8bdf-3374eb5c7316
+
+csharp
+dir
+
+java
+dir
+
+ruby
+dir
+
+python
+dir
+
+perl
+dir
+
+winrt
+dir
+
+_common
+dir
+
+version.rc
+file
+
+
+
+
+2013-09-02T02:55:15.000000Z
+6c01f3bd74e9f6bb17ee78276e63216f
+2013-07-29T06:05:35.822105Z
+974
+bossiel@yahoo.fr
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2288
+
+autogen.sh
+file
+
+
+
+
+2013-09-02T02:55:15.000000Z
+5d976d729fb5c3fbeed5a48fb4952c08
+2012-12-24T06:51:07.429164Z
+797
+bossiel@yahoo.fr
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1571
+
+objc
+dir
+
+vs_2005
+dir
+

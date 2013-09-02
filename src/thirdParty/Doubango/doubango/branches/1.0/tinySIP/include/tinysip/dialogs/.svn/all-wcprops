@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/639/branches/1.0/tinySIP/include/tinysip/dialogs
+END
+tsip_dialog_options.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/639/branches/1.0/tinySIP/include/tinysip/dialogs/tsip_dialog_options.h
+END
+tsip_dialog_register.common.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/639/branches/1.0/tinySIP/include/tinysip/dialogs/tsip_dialog_register.common.h
+END
+tsip_dialog_layer.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/639/branches/1.0/tinySIP/include/tinysip/dialogs/tsip_dialog_layer.h
+END
+tsip_dialog_invite.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/639/branches/1.0/tinySIP/include/tinysip/dialogs/tsip_dialog_invite.h
+END
+tsip_dialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/639/branches/1.0/tinySIP/include/tinysip/dialogs/tsip_dialog.h
+END
+tsip_dialog_subscribe.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/639/branches/1.0/tinySIP/include/tinysip/dialogs/tsip_dialog_subscribe.h
+END
+tsip_dialog_register.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/639/branches/1.0/tinySIP/include/tinysip/dialogs/tsip_dialog_register.h
+END
+tsip_dialog_message.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/639/branches/1.0/tinySIP/include/tinysip/dialogs/tsip_dialog_message.h
+END
+tsip_dialog_invite.common.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/639/branches/1.0/tinySIP/include/tinysip/dialogs/tsip_dialog_invite.common.h
+END
+tsip_dialog_publish.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/639/branches/1.0/tinySIP/include/tinysip/dialogs/tsip_dialog_publish.h
+END

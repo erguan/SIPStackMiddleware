@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/639/branches/1.0/tinyRTP/include/tinyrtp
+END
+trtp.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/639/branches/1.0/tinyRTP/include/tinyrtp/trtp.h
+END
+trtp_manager.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/639/branches/1.0/tinyRTP/include/tinyrtp/trtp_manager.h
+END

@@ -1,0 +1,155 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/639/branches/1.0/wince/wcecompat/src
+END
+timeb.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/639/branches/1.0/wince/wcecompat/src/timeb.cpp
+END
+args.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/639/branches/1.0/wince/wcecompat/src/args.h
+END
+assert.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/639/branches/1.0/wince/wcecompat/src/assert.cpp
+END
+pipe.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/639/branches/1.0/wince/wcecompat/src/pipe.h
+END
+winsock_extras.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/639/branches/1.0/wince/wcecompat/src/winsock_extras.cpp
+END
+redir.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/639/branches/1.0/wince/wcecompat/src/redir.cpp
+END
+wce211_ctype.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/639/branches/1.0/wince/wcecompat/src/wce211_ctype.c
+END
+io.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/639/branches/1.0/wince/wcecompat/src/io.cpp
+END
+stdlib_extras.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/639/branches/1.0/wince/wcecompat/src/stdlib_extras.cpp
+END
+stdio_extras.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/639/branches/1.0/wince/wcecompat/src/stdio_extras.cpp
+END
+redir.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/639/branches/1.0/wince/wcecompat/src/redir.h
+END
+stat.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/639/branches/1.0/wince/wcecompat/src/stat.cpp
+END
+ts_string.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/639/branches/1.0/wince/wcecompat/src/ts_string.cpp
+END
+ChildData.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/639/branches/1.0/wince/wcecompat/src/ChildData.cpp
+END
+process.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/639/branches/1.0/wince/wcecompat/src/process.cpp
+END
+ts_string.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/639/branches/1.0/wince/wcecompat/src/ts_string.h
+END
+internal.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/639/branches/1.0/wince/wcecompat/src/internal.h
+END
+ChildData.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/639/branches/1.0/wince/wcecompat/src/ChildData.h
+END
+errno.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/639/branches/1.0/wince/wcecompat/src/errno.cpp
+END
+env.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/639/branches/1.0/wince/wcecompat/src/env.cpp
+END
+wce211_string.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/639/branches/1.0/wince/wcecompat/src/wce211_string.c
+END
+string_extras.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/639/branches/1.0/wince/wcecompat/src/string_extras.cpp
+END
+args.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/639/branches/1.0/wince/wcecompat/src/args.cpp
+END
+pipe.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/639/branches/1.0/wince/wcecompat/src/pipe.cpp
+END
+_time.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/639/branches/1.0/wince/wcecompat/src/_time.cpp
+END

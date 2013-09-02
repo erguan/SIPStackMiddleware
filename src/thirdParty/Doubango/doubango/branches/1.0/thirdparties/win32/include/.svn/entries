@@ -1,0 +1,187 @@
+10
+
+dir
+994
+http://doubango.googlecode.com/svn/branches/1.0/thirdparties/win32/include
+http://doubango.googlecode.com/svn
+
+
+
+2011-08-10T22:59:15.960359Z
+639
+bossiel@yahoo.fr
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+c7b0ae48-b0eb-11de-8bdf-3374eb5c7316
+
+opencore-amrwb
+dir
+
+theora
+dir
+
+openssl
+dir
+
+speex
+dir
+
+BroadVoice16
+dir
+
+pthread
+dir
+
+libxml
+dir
+
+libswscale
+dir
+
+g729a
+dir
+
+g729b
+dir
+
+libavcodec
+dir
+
+libavutil
+dir
+
+stdint.h
+file
+
+
+
+
+2013-09-02T02:56:33.000000Z
+42e5594ccee5f8f073e7931141d6e07e
+2011-08-10T22:59:15.960359Z
+639
+bossiel@yahoo.fr
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+7728
+
+vorbis
+dir
+
+curl
+dir
+
+inttypes.h
+file
+
+
+
+
+2013-09-02T02:56:33.000000Z
+2defcc6ba3b3729495a4178b7a1a23cc
+2011-08-10T22:59:15.960359Z
+639
+bossiel@yahoo.fr
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+8004
+
+opencore-amrnb
+dir
+
+ilbc
+dir
+
+win-iconv
+dir
+
+directshow
+dir
+
+ogg
+dir
+
+gsm.h
+file
+
+
+
+
+2013-09-02T02:56:33.000000Z
+e4e47e4a479cb77f0f37274151e8b982
+2011-08-10T22:59:15.960359Z
+639
+bossiel@yahoo.fr
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1681
+

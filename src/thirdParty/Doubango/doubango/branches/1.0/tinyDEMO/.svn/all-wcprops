@@ -1,0 +1,245 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/639/branches/1.0/tinyDEMO
+END
+invite.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/639/branches/1.0/tinyDEMO/invite.c
+END
+sigcomp.sn
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/639/branches/1.0/tinyDEMO/sigcomp.sn
+END
+options.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/639/branches/1.0/tinyDEMO/options.h
+END
+tinyDEMO.sln
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/639/branches/1.0/tinyDEMO/tinyDEMO.sln
+END
+core-inexbee.sn
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/639/branches/1.0/tinyDEMO/core-inexbee.sn
+END
+invite.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/639/branches/1.0/tinyDEMO/invite.h
+END
+publish.sn
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/639/branches/1.0/tinyDEMO/publish.sn
+END
+publish.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/639/branches/1.0/tinyDEMO/publish.c
+END
+tinyDEMO.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/639/branches/1.0/tinyDEMO/tinyDEMO.vcproj
+END
+publish.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/639/branches/1.0/tinyDEMO/publish.h
+END
+demo_config.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/639/branches/1.0/tinyDEMO/demo_config.h
+END
+subscribe.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/639/branches/1.0/tinyDEMO/subscribe.c
+END
+core-nsn.sn
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/639/branches/1.0/tinyDEMO/core-nsn.sn
+END
+ragel.sh
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/639/branches/1.0/tinyDEMO/ragel.sh
+END
+core-doubango.sn
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/639/branches/1.0/tinyDEMO/core-doubango.sn
+END
+asterisk.sn
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/639/branches/1.0/tinyDEMO/asterisk.sn
+END
+register.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/639/branches/1.0/tinyDEMO/register.c
+END
+message.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/639/branches/1.0/tinyDEMO/message.c
+END
+subscribe.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/639/branches/1.0/tinyDEMO/subscribe.h
+END
+core-alcatel.sn
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/639/branches/1.0/tinyDEMO/core-alcatel.sn
+END
+register.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/639/branches/1.0/tinyDEMO/register.h
+END
+message.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/639/branches/1.0/tinyDEMO/message.h
+END
+droid-makefile
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/639/branches/1.0/tinyDEMO/droid-makefile
+END
+core-micromethod.sn
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/639/branches/1.0/tinyDEMO/core-micromethod.sn
+END
+dssl.rl
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/639/branches/1.0/tinyDEMO/dssl.rl
+END
+cmd.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/639/branches/1.0/tinyDEMO/cmd.c
+END
+open-ims.test.sn
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/639/branches/1.0/tinyDEMO/open-ims.test.sn
+END
+dssl.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/639/branches/1.0/tinyDEMO/dssl.c
+END
+cmd.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/639/branches/1.0/tinyDEMO/cmd.h
+END
+core-colibria.sn
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/639/branches/1.0/tinyDEMO/core-colibria.sn
+END
+core-ericsson.sn
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/639/branches/1.0/tinyDEMO/core-ericsson.sn
+END
+dssl.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/639/branches/1.0/tinyDEMO/dssl.h
+END
+sample.sn
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/639/branches/1.0/tinyDEMO/sample.sn
+END
+sip2sip.info.sn
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/639/branches/1.0/tinyDEMO/sip2sip.info.sn
+END
+main.sn
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/639/branches/1.0/tinyDEMO/main.sn
+END
+main.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/639/branches/1.0/tinyDEMO/main.c
+END
+common.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/639/branches/1.0/tinyDEMO/common.c
+END
+main.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/639/branches/1.0/tinyDEMO/main.h
+END
+options.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/639/branches/1.0/tinyDEMO/options.c
+END
+common.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/639/branches/1.0/tinyDEMO/common.h
+END

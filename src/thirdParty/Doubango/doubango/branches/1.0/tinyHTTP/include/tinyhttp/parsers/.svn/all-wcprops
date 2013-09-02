@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/639/branches/1.0/tinyHTTP/include/tinyhttp/parsers
+END
+thttp_parser_url.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/639/branches/1.0/tinyHTTP/include/tinyhttp/parsers/thttp_parser_url.h
+END
+thttp_parser_message.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/639/branches/1.0/tinyHTTP/include/tinyhttp/parsers/thttp_parser_message.h
+END
+thttp_parser_header.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/639/branches/1.0/tinyHTTP/include/tinyhttp/parsers/thttp_parser_header.h
+END

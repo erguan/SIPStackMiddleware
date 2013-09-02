@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/974/branches/2.0/doubango/bindings
+END
+version.rc
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/974/branches/2.0/doubango/bindings/version.rc
+END
+autogen.sh
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/797/branches/2.0/doubango/bindings/autogen.sh
+END

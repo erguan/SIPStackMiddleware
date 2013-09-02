@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/639/branches/1.0/wince/win-iconv
+END
+mlang.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/639/branches/1.0/wince/win-iconv/mlang.h
+END
+iconv.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/639/branches/1.0/wince/win-iconv/iconv.h
+END
+ChangeLog
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/639/branches/1.0/wince/win-iconv/ChangeLog
+END
+readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/639/branches/1.0/wince/win-iconv/readme.txt
+END
+iconv.def
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/639/branches/1.0/wince/win-iconv/iconv.def
+END
+win-iconv.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/639/branches/1.0/wince/win-iconv/win-iconv.vcproj
+END
+mlang.def
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/639/branches/1.0/wince/win-iconv/mlang.def
+END
+win_iconv_test.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/639/branches/1.0/wince/win-iconv/win_iconv_test.c
+END
+win_iconv.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/639/branches/1.0/wince/win-iconv/win_iconv.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/639/branches/1.0/wince/win-iconv/Makefile
+END

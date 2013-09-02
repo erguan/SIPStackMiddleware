@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/639/branches/1.0/bindings/vs_2005/csharp/test/Properties
+END
+AssemblyInfo.cs
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/639/branches/1.0/bindings/vs_2005/csharp/test/Properties/AssemblyInfo.cs
+END
+Settings.settings
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/639/branches/1.0/bindings/vs_2005/csharp/test/Properties/Settings.settings
+END
+Settings.Designer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/639/branches/1.0/bindings/vs_2005/csharp/test/Properties/Settings.Designer.cs
+END
+Resources.resx
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/639/branches/1.0/bindings/vs_2005/csharp/test/Properties/Resources.resx
+END
+Resources.Designer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/639/branches/1.0/bindings/vs_2005/csharp/test/Properties/Resources.Designer.cs
+END

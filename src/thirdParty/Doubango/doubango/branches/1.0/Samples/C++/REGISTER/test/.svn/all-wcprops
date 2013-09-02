@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/639/branches/1.0/Samples/C++/REGISTER/test
+END
+stdafx.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/639/branches/1.0/Samples/C++/REGISTER/test/stdafx.h
+END
+test.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/639/branches/1.0/Samples/C++/REGISTER/test/test.cpp
+END
+test.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/639/branches/1.0/Samples/C++/REGISTER/test/test.vcproj
+END
+targetver.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/639/branches/1.0/Samples/C++/REGISTER/test/targetver.h
+END
+test.sln
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/639/branches/1.0/Samples/C++/REGISTER/test/test.sln
+END
+stdafx.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/639/branches/1.0/Samples/C++/REGISTER/test/stdafx.cpp
+END
+ReadMe.txt
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/639/branches/1.0/Samples/C++/REGISTER/test/ReadMe.txt
+END

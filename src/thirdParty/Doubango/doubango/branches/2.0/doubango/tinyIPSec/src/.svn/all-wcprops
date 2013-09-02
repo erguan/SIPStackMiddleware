@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/927/branches/2.0/doubango/tinyIPSec/src
+END
+tipsec_xp.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/765/branches/2.0/doubango/tinyIPSec/src/tipsec_xp.c
+END
+tipsec_common.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/765/branches/2.0/doubango/tinyIPSec/src/tipsec_common.c
+END
+tinyipsec_config.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/927/branches/2.0/doubango/tinyIPSec/src/tinyipsec_config.h
+END
+tipsec_vista.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/765/branches/2.0/doubango/tinyIPSec/src/tipsec_vista.h
+END
+tipsec_xp.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/765/branches/2.0/doubango/tinyIPSec/src/tipsec_xp.h
+END
+tipsec_common.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/765/branches/2.0/doubango/tinyIPSec/src/tipsec_common.h
+END
+tipsec.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/765/branches/2.0/doubango/tinyIPSec/src/tipsec.c
+END
+tipsec_racoon.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/765/branches/2.0/doubango/tinyIPSec/src/tipsec_racoon.c
+END
+tipsec.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/765/branches/2.0/doubango/tinyIPSec/src/tipsec.h
+END
+tipsec_vista.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/765/branches/2.0/doubango/tinyIPSec/src/tipsec_vista.c
+END
+tipsec_racoon.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/765/branches/2.0/doubango/tinyIPSec/src/tipsec_racoon.h
+END

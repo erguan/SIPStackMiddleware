@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/639/branches/1.0/thirdparties/win32/include/libavcodec
+END
+xvmc.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/639/branches/1.0/thirdparties/win32/include/libavcodec/xvmc.h
+END
+vdpau.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/639/branches/1.0/thirdparties/win32/include/libavcodec/vdpau.h
+END
+vaapi.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/639/branches/1.0/thirdparties/win32/include/libavcodec/vaapi.h
+END
+opt.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/639/branches/1.0/thirdparties/win32/include/libavcodec/opt.h
+END
+dxva2.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/639/branches/1.0/thirdparties/win32/include/libavcodec/dxva2.h
+END
+avcodec.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/639/branches/1.0/thirdparties/win32/include/libavcodec/avcodec.h
+END
+avfft.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/639/branches/1.0/thirdparties/win32/include/libavcodec/avfft.h
+END

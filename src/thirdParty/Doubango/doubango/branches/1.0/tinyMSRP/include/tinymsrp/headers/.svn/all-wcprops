@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/639/branches/1.0/tinyMSRP/include/tinymsrp/headers
+END
+tmsrp_header_From-Path.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/639/branches/1.0/tinyMSRP/include/tinymsrp/headers/tmsrp_header_From-Path.h
+END
+tmsrp_header_Byte-Range.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/639/branches/1.0/tinyMSRP/include/tinymsrp/headers/tmsrp_header_Byte-Range.h
+END
+tmsrp_header_WWW-Authenticate.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/639/branches/1.0/tinyMSRP/include/tinymsrp/headers/tmsrp_header_WWW-Authenticate.h
+END
+tmsrp_header_Min-Expires.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/639/branches/1.0/tinyMSRP/include/tinymsrp/headers/tmsrp_header_Min-Expires.h
+END
+tmsrp_header_Authorization.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/639/branches/1.0/tinyMSRP/include/tinymsrp/headers/tmsrp_header_Authorization.h
+END
+tmsrp_header_Failure-Report.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/639/branches/1.0/tinyMSRP/include/tinymsrp/headers/tmsrp_header_Failure-Report.h
+END
+tmsrp_header_Max-Expires.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/639/branches/1.0/tinyMSRP/include/tinymsrp/headers/tmsrp_header_Max-Expires.h
+END
+tmsrp_header_Authentication-Info.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/639/branches/1.0/tinyMSRP/include/tinymsrp/headers/tmsrp_header_Authentication-Info.h
+END
+tmsrp_header_To-Path.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/639/branches/1.0/tinyMSRP/include/tinymsrp/headers/tmsrp_header_To-Path.h
+END
+tmsrp_header_Message-ID.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/639/branches/1.0/tinyMSRP/include/tinymsrp/headers/tmsrp_header_Message-ID.h
+END
+tmsrp_header_Expires.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/639/branches/1.0/tinyMSRP/include/tinymsrp/headers/tmsrp_header_Expires.h
+END
+tmsrp_header.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/639/branches/1.0/tinyMSRP/include/tinymsrp/headers/tmsrp_header.h
+END
+tmsrp_header_Success-Report.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/639/branches/1.0/tinyMSRP/include/tinymsrp/headers/tmsrp_header_Success-Report.h
+END
+tmsrp_header_Status.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/639/branches/1.0/tinyMSRP/include/tinymsrp/headers/tmsrp_header_Status.h
+END
+tmsrp_header_Use-Path.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/639/branches/1.0/tinyMSRP/include/tinymsrp/headers/tmsrp_header_Use-Path.h
+END
+tmsrp_header_Content-Type.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/639/branches/1.0/tinyMSRP/include/tinymsrp/headers/tmsrp_header_Content-Type.h
+END
+tmsrp_header_Dummy.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/639/branches/1.0/tinyMSRP/include/tinymsrp/headers/tmsrp_header_Dummy.h
+END

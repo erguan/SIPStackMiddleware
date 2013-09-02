@@ -1,0 +1,76 @@
+10
+
+dir
+994
+http://doubango.googlecode.com/svn/branches/1.0/tinyDAV/include/tinydav/codecs
+http://doubango.googlecode.com/svn
+
+
+
+2011-08-10T22:59:15.960359Z
+639
+bossiel@yahoo.fr
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+c7b0ae48-b0eb-11de-8bdf-3374eb5c7316
+
+amr
+dir
+
+g711
+dir
+
+h261
+dir
+
+g722
+dir
+
+msrp
+dir
+
+h263
+dir
+
+theora
+dir
+
+h264
+dir
+
+speex
+dir
+
+gsm
+dir
+
+g729
+dir
+
+dtmf
+dir
+
+silk
+dir
+
+bv
+dir
+
+ilbc
+dir
+
+mp4ves
+dir
+

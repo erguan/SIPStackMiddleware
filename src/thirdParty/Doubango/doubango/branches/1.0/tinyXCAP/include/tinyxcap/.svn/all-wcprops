@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/639/branches/1.0/tinyXCAP/include/tinyxcap
+END
+txcap_action.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/639/branches/1.0/tinyXCAP/include/tinyxcap/txcap_action.h
+END
+txcap_document.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/639/branches/1.0/tinyXCAP/include/tinyxcap/txcap_document.h
+END
+txcap_selector.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/639/branches/1.0/tinyXCAP/include/tinyxcap/txcap_selector.h
+END
+txcap_auid.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/639/branches/1.0/tinyXCAP/include/tinyxcap/txcap_auid.h
+END
+txcap_node.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/639/branches/1.0/tinyXCAP/include/tinyxcap/txcap_node.h
+END

@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/747/branches/2.0/doubango/thirdparties/mac/lib/x86_64
+END
+libpostproc.a
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/747/branches/2.0/doubango/thirdparties/mac/lib/x86_64/libpostproc.a
+END
+libavfilter.a
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/747/branches/2.0/doubango/thirdparties/mac/lib/x86_64/libavfilter.a
+END
+libvpx.a
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/702/branches/2.0/doubango/thirdparties/mac/lib/x86_64/libvpx.a
+END
+libavcore.a
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/658/branches/2.0/doubango/thirdparties/mac/lib/x86_64/libavcore.a
+END
+libavformat.a
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/747/branches/2.0/doubango/thirdparties/mac/lib/x86_64/libavformat.a
+END
+libcrypto.a
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/658/branches/2.0/doubango/thirdparties/mac/lib/x86_64/libcrypto.a
+END
+libswresample.a
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/747/branches/2.0/doubango/thirdparties/mac/lib/x86_64/libswresample.a
+END
+libspeex.a
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/658/branches/2.0/doubango/thirdparties/mac/lib/x86_64/libspeex.a
+END
+libavdevice.a
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/747/branches/2.0/doubango/thirdparties/mac/lib/x86_64/libavdevice.a
+END
+libsrtp.a
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/702/branches/2.0/doubango/thirdparties/mac/lib/x86_64/libsrtp.a
+END
+libspeexdsp.a
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/658/branches/2.0/doubango/thirdparties/mac/lib/x86_64/libspeexdsp.a
+END
+libswscale.a
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/747/branches/2.0/doubango/thirdparties/mac/lib/x86_64/libswscale.a
+END
+libssl.a
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/658/branches/2.0/doubango/thirdparties/mac/lib/x86_64/libssl.a
+END
+libx264.a
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/747/branches/2.0/doubango/thirdparties/mac/lib/x86_64/libx264.a
+END
+libavutil.a
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/747/branches/2.0/doubango/thirdparties/mac/lib/x86_64/libavutil.a
+END
+libavcodec.a
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/747/branches/2.0/doubango/thirdparties/mac/lib/x86_64/libavcodec.a
+END

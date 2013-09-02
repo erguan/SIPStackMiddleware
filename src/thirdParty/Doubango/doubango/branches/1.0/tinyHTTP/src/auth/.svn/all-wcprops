@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/639/branches/1.0/tinyHTTP/src/auth
+END
+thttp_auth.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/639/branches/1.0/tinyHTTP/src/auth/thttp_auth.c
+END
+thttp_challenge.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/639/branches/1.0/tinyHTTP/src/auth/thttp_challenge.c
+END

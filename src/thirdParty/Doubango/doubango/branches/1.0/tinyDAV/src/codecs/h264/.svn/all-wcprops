@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/639/branches/1.0/tinyDAV/src/codecs/h264
+END
+tdav_codec_h264.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/639/branches/1.0/tinyDAV/src/codecs/h264/tdav_codec_h264.c
+END
+tdav_codec_h264_rtp.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/639/branches/1.0/tinyDAV/src/codecs/h264/tdav_codec_h264_rtp.c
+END

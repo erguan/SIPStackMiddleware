@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/715/branches/2.0/doubango/thirdparties/android/lib/armv5te
+END
+libavcore-lgpl.a
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/715/branches/2.0/doubango/thirdparties/android/lib/armv5te/libavcore-lgpl.a
+END
+libswscale-lgpl.a
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/715/branches/2.0/doubango/thirdparties/android/lib/armv5te/libswscale-lgpl.a
+END
+libavcore-gpl.a
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/596/branches/2.0/doubango/thirdparties/android/lib/armv5te/libavcore-gpl.a
+END
+libavutil-lgpl.a
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/715/branches/2.0/doubango/thirdparties/android/lib/armv5te/libavutil-lgpl.a
+END
+libavcodec-lgpl.a
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/715/branches/2.0/doubango/thirdparties/android/lib/armv5te/libavcodec-lgpl.a
+END
+libswscale-gpl.a
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/596/branches/2.0/doubango/thirdparties/android/lib/armv5te/libswscale-gpl.a
+END
+libx264.a
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/559/branches/2.0/doubango/thirdparties/android/lib/armv5te/libx264.a
+END
+libavcodec-gpl.a
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/596/branches/2.0/doubango/thirdparties/android/lib/armv5te/libavcodec-gpl.a
+END
+libavutil-gpl.a
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/596/branches/2.0/doubango/thirdparties/android/lib/armv5te/libavutil-gpl.a
+END

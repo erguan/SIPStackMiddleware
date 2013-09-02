@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/639/branches/1.0/tinySIGCOMP/test
+END
+stdafx.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/639/branches/1.0/tinySIGCOMP/test/stdafx.h
+END
+test.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/639/branches/1.0/tinySIGCOMP/test/test.c
+END
+test.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/639/branches/1.0/tinySIGCOMP/test/test.vcproj
+END
+targetver.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/639/branches/1.0/tinySIGCOMP/test/targetver.h
+END
+rfc4465_torture_tests.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/639/branches/1.0/tinySIGCOMP/test/rfc4465_torture_tests.h
+END
+stdafx.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/639/branches/1.0/tinySIGCOMP/test/stdafx.c
+END

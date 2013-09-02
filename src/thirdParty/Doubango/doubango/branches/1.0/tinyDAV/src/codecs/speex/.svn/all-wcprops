@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/639/branches/1.0/tinyDAV/src/codecs/speex
+END
+tdav_codec_speex.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/639/branches/1.0/tinyDAV/src/codecs/speex/tdav_codec_speex.c
+END

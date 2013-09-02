@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/639/branches/1.0/tinyDAV/src/codecs/g711
+END
+g711.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/639/branches/1.0/tinyDAV/src/codecs/g711/g711.c
+END
+tdav_codec_g711.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/639/branches/1.0/tinyDAV/src/codecs/g711/tdav_codec_g711.c
+END

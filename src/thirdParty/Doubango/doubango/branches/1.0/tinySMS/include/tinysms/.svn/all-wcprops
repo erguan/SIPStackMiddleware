@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/639/branches/1.0/tinySMS/include/tinysms
+END
+tsms_address.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/639/branches/1.0/tinySMS/include/tinysms/tsms_address.h
+END
+tsms_etsi_gsm_03_38.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/639/branches/1.0/tinySMS/include/tinysms/tsms_etsi_gsm_03_38.h
+END
+tsms_common.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/639/branches/1.0/tinySMS/include/tinysms/tsms_common.h
+END
+tsms_packing.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/639/branches/1.0/tinySMS/include/tinysms/tsms_packing.h
+END
+tsms.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/639/branches/1.0/tinySMS/include/tinysms/tsms.h
+END

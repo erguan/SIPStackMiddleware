@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/639/branches/1.0/android-projects/tinySIP
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/639/branches/1.0/android-projects/tinySIP/.project
+END
+.cproject
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/639/branches/1.0/android-projects/tinySIP/.cproject
+END
+makefile
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/639/branches/1.0/android-projects/tinySIP/makefile
+END

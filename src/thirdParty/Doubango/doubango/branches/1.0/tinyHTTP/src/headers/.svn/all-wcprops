@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/639/branches/1.0/tinyHTTP/src/headers
+END
+thttp_header_Transfer_Encoding.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/639/branches/1.0/tinyHTTP/src/headers/thttp_header_Transfer_Encoding.c
+END
+thttp_header_Content_Length.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/639/branches/1.0/tinyHTTP/src/headers/thttp_header_Content_Length.c
+END
+thttp_header_Dummy.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/639/branches/1.0/tinyHTTP/src/headers/thttp_header_Dummy.c
+END
+thttp_header_Content_Type.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/639/branches/1.0/tinyHTTP/src/headers/thttp_header_Content_Type.c
+END
+thttp_header.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/639/branches/1.0/tinyHTTP/src/headers/thttp_header.c
+END
+thttp_header_ETag.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/639/branches/1.0/tinyHTTP/src/headers/thttp_header_ETag.c
+END
+thttp_header_Authorization.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/639/branches/1.0/tinyHTTP/src/headers/thttp_header_Authorization.c
+END
+thttp_header_WWW_Authenticate.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/639/branches/1.0/tinyHTTP/src/headers/thttp_header_WWW_Authenticate.c
+END

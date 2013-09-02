@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/639/branches/1.0/thirdparties/win32/include/theora
+END
+codec.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/639/branches/1.0/thirdparties/win32/include/theora/codec.h
+END
+theoradec.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/639/branches/1.0/thirdparties/win32/include/theora/theoradec.h
+END
+theora.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/639/branches/1.0/thirdparties/win32/include/theora/theora.h
+END
+theoraenc.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/639/branches/1.0/thirdparties/win32/include/theora/theoraenc.h
+END

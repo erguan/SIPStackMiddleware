@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/639/branches/1.0/tinyNET
+END
+footer.html
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/639/branches/1.0/tinyNET/footer.html
+END
+Doxyfile
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/639/branches/1.0/tinyNET/Doxyfile
+END
+configure.ac
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/639/branches/1.0/tinyNET/configure.ac
+END
+ragel.sh
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/639/branches/1.0/tinyNET/ragel.sh
+END
+tinyNET.tag
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/639/branches/1.0/tinyNET/tinyNET.tag
+END
+tinyNET.sln
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/639/branches/1.0/tinyNET/tinyNET.sln
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/639/branches/1.0/tinyNET/Makefile.am
+END
+installdox.sh
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/639/branches/1.0/tinyNET/installdox.sh
+END
+config.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/639/branches/1.0/tinyNET/config.h
+END
+header.html
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/639/branches/1.0/tinyNET/header.html
+END
+autogen.sh
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/639/branches/1.0/tinyNET/autogen.sh
+END
+tinyNET.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/639/branches/1.0/tinyNET/tinyNET.vcproj
+END
+droid-makefile
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/639/branches/1.0/tinyNET/droid-makefile
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/639/branches/1.0/tinySIP/src/transactions
+END
+tsip_transac_layer.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/639/branches/1.0/tinySIP/src/transactions/tsip_transac_layer.c
+END
+tsip_transac_nist.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/639/branches/1.0/tinySIP/src/transactions/tsip_transac_nist.c
+END
+tsip_transac_nict.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/639/branches/1.0/tinySIP/src/transactions/tsip_transac_nict.c
+END
+tsip_transac_ict.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/639/branches/1.0/tinySIP/src/transactions/tsip_transac_ict.c
+END
+tsip_transac_ist.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/639/branches/1.0/tinySIP/src/transactions/tsip_transac_ist.c
+END
+tsip_transac.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/639/branches/1.0/tinySIP/src/transactions/tsip_transac.c
+END

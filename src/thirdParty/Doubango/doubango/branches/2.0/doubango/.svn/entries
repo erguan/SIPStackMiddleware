@@ -1,0 +1,325 @@
+10
+
+dir
+994
+http://doubango.googlecode.com/svn/branches/2.0/doubango
+http://doubango.googlecode.com/svn
+
+
+
+2013-08-28T06:56:50.179203Z
+994
+bossiel@yahoo.fr
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+c7b0ae48-b0eb-11de-8bdf-3374eb5c7316
+
+tinySAK
+dir
+
+tinyHTTP
+dir
+
+schemas
+dir
+
+tinyDEMO
+dir
+
+dtmf
+dir
+
+tinyNET
+dir
+
+bindings
+dir
+
+tinyXCAP
+dir
+
+tinySIP
+dir
+
+configure.ac
+file
+
+
+
+
+2013-09-02T02:56:18.000000Z
+c9e4d4b0441da447d71190b3399d21ca
+2013-08-18T21:19:41.019762Z
+989
+bossiel@yahoo.fr
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+23933
+
+Samples
+dir
+
+images
+dir
+
+tinySMS
+dir
+
+tinyIPSec
+dir
+
+autogen.sh
+file
+
+
+
+
+2013-09-02T02:56:18.000000Z
+3f11a2e0570d66a7f5b7ab4bee9cd1f8
+2012-12-11T17:18:20.125526Z
+787
+bossiel@yahoo.fr
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+330
+
+contributors.txt
+file
+
+
+
+
+2013-09-02T02:56:18.000000Z
+ca831584d39ce11ee8f9e8171dc51170
+2012-12-03T03:11:21.618745Z
+765
+bossiel@yahoo.fr
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+419
+
+plugins
+dir
+
+tinyMEDIA
+dir
+
+tinyMSRP
+dir
+
+g729a
+dir
+
+version_w32.sh
+file
+
+
+
+
+2013-09-02T02:56:18.000000Z
+bd7aebc19d9d5570e62c18d79ef6e6a5
+2013-07-28T04:32:17.228703Z
+964
+bossiel@yahoo.fr
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1291
+
+g729b
+dir
+
+tinySDP
+dir
+
+rtpdump
+dir
+
+tinyROHC
+dir
+
+xcode
+dir
+
+thirdparties
+dir
+
+website
+dir
+
+win32
+dir
+
+doubango.pc.in
+file
+
+
+
+
+2013-09-02T02:56:18.000000Z
+f6e15386601087e301d0f683b75a865c
+2013-06-10T05:47:01.342298Z
+898
+bossiel@yahoo.fr
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+866
+
+tinySIGCOMP
+dir
+
+android-projects
+dir
+
+documentation
+dir
+
+tinyRTP
+dir
+
+Makefile.am
+file
+
+
+
+
+2013-09-02T02:56:18.000000Z
+c879e7048059016137c2dca111950fc6
+2013-08-16T15:09:20.630713Z
+988
+bossiel@yahoo.fr
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+485
+
+android-utils
+dir
+
+tinyDAV
+dir
+

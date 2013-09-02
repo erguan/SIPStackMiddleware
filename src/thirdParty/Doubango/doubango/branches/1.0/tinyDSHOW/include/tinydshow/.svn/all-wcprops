@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/639/branches/1.0/tinyDSHOW/include/tinydshow
+END
+DSGrabber.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/639/branches/1.0/tinyDSHOW/include/tinydshow/DSGrabber.h
+END
+DSDisplay.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/639/branches/1.0/tinyDSHOW/include/tinydshow/DSDisplay.h
+END
+VideoGrabberName.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/639/branches/1.0/tinyDSHOW/include/tinydshow/VideoGrabberName.h
+END
+DSBufferWriter.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/639/branches/1.0/tinyDSHOW/include/tinydshow/DSBufferWriter.h
+END
+VideoDisplayName.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/639/branches/1.0/tinyDSHOW/include/tinydshow/VideoDisplayName.h
+END
+DSOutputFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/639/branches/1.0/tinyDSHOW/include/tinydshow/DSOutputFilter.h
+END
+DSDisplayOverlay.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/639/branches/1.0/tinyDSHOW/include/tinydshow/DSDisplayOverlay.h
+END
+DSFrameRateFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/639/branches/1.0/tinyDSHOW/include/tinydshow/DSFrameRateFilter.h
+END
+DSOutputStream.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/639/branches/1.0/tinyDSHOW/include/tinydshow/DSOutputStream.h
+END
+DSCaptureFormat.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/639/branches/1.0/tinyDSHOW/include/tinydshow/DSCaptureFormat.h
+END
+DSCaptureUtils.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/639/branches/1.0/tinyDSHOW/include/tinydshow/DSCaptureUtils.h
+END
+DSCaptureGraph.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/639/branches/1.0/tinyDSHOW/include/tinydshow/DSCaptureGraph.h
+END
+DSDisplayGraph.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/639/branches/1.0/tinyDSHOW/include/tinydshow/DSDisplayGraph.h
+END
+VideoFrame.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/639/branches/1.0/tinyDSHOW/include/tinydshow/VideoFrame.h
+END
+Resizer.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/639/branches/1.0/tinyDSHOW/include/tinydshow/Resizer.h
+END
+DSUtils.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/639/branches/1.0/tinyDSHOW/include/tinydshow/DSUtils.h
+END

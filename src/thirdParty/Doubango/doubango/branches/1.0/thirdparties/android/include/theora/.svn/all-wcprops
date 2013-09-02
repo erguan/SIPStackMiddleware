@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/639/branches/1.0/thirdparties/android/include/theora
+END
+codec.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/639/branches/1.0/thirdparties/android/include/theora/codec.h
+END
+theoradec.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/639/branches/1.0/thirdparties/android/include/theora/theoradec.h
+END
+theora.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/639/branches/1.0/thirdparties/android/include/theora/theora.h
+END
+theoraenc.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/639/branches/1.0/thirdparties/android/include/theora/theoraenc.h
+END

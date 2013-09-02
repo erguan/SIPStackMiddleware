@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/962/branches/2.0/doubango/tinyDAV/include/tinydav
+END
+tdav.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/936/branches/2.0/doubango/tinyDAV/include/tinydav/tdav.h
+END
+tdav_apple.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/765/branches/2.0/doubango/tinyDAV/include/tinydav/tdav_apple.h
+END
+tdav_win32.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/957/branches/2.0/doubango/tinyDAV/include/tinydav/tdav_win32.h
+END
+tdav_session_av.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/898/branches/2.0/doubango/tinyDAV/include/tinydav/tdav_session_av.h
+END

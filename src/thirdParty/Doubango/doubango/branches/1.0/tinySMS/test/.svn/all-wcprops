@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/639/branches/1.0/tinySMS/test
+END
+test_rpdu.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/639/branches/1.0/tinySMS/test/test_rpdu.h
+END
+stdafx.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/639/branches/1.0/tinySMS/test/stdafx.h
+END
+test.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/639/branches/1.0/tinySMS/test/test.c
+END
+test_tpdu.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/639/branches/1.0/tinySMS/test/test_tpdu.h
+END
+test_packing.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/639/branches/1.0/tinySMS/test/test_packing.h
+END
+test.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/639/branches/1.0/tinySMS/test/test.vcproj
+END
+targetver.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/639/branches/1.0/tinySMS/test/targetver.h
+END
+stdafx.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/639/branches/1.0/tinySMS/test/stdafx.c
+END
+droid-makefile
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/639/branches/1.0/tinySMS/test/droid-makefile
+END

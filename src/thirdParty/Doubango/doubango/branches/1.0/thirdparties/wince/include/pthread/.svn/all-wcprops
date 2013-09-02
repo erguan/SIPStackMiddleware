@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/639/branches/1.0/thirdparties/wince/include/pthread
+END
+implement.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/639/branches/1.0/thirdparties/wince/include/pthread/implement.h
+END
+md5.sum
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/639/branches/1.0/thirdparties/wince/include/pthread/md5.sum
+END
+semaphore.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/639/branches/1.0/thirdparties/wince/include/pthread/semaphore.h
+END
+sched.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/639/branches/1.0/thirdparties/wince/include/pthread/sched.h
+END
+pthread.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/639/branches/1.0/thirdparties/wince/include/pthread/pthread.h
+END

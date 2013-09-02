@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/639/branches/1.0/test
+END
+stdafx.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/639/branches/1.0/test/stdafx.h
+END
+test.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/639/branches/1.0/test/test.cpp
+END
+test.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/639/branches/1.0/test/test.vcproj
+END
+3G_Security.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/639/branches/1.0/test/3G_Security.c
+END
+targetver.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/639/branches/1.0/test/targetver.h
+END
+stdafx.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/639/branches/1.0/test/stdafx.cpp
+END
+ReadMe.txt
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/639/branches/1.0/test/ReadMe.txt
+END

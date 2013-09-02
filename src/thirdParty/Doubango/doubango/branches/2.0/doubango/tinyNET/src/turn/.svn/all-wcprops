@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/776/branches/2.0/doubango/tinyNET/src/turn
+END
+tnet_turn.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/776/branches/2.0/doubango/tinyNET/src/turn/tnet_turn.c
+END
+tnet_turn_attribute.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/776/branches/2.0/doubango/tinyNET/src/turn/tnet_turn_attribute.c
+END
+tnet_turn_message.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/765/branches/2.0/doubango/tinyNET/src/turn/tnet_turn_message.c
+END
+tnet_turn.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/765/branches/2.0/doubango/tinyNET/src/turn/tnet_turn.h
+END
+tnet_turn_attribute.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/765/branches/2.0/doubango/tinyNET/src/turn/tnet_turn_attribute.h
+END
+tnet_turn_message.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/765/branches/2.0/doubango/tinyNET/src/turn/tnet_turn_message.h
+END

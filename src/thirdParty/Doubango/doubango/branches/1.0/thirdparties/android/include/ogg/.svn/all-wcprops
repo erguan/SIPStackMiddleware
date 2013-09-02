@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/639/branches/1.0/thirdparties/android/include/ogg
+END
+config_types.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/639/branches/1.0/thirdparties/android/include/ogg/config_types.h
+END
+ogg.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/639/branches/1.0/thirdparties/android/include/ogg/ogg.h
+END
+os_types.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/639/branches/1.0/thirdparties/android/include/ogg/os_types.h
+END

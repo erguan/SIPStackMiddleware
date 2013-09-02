@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/639/branches/1.0/tinyHTTP/ragel
+END
+thttp_parser_message.rl
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/639/branches/1.0/tinyHTTP/ragel/thttp_parser_message.rl
+END
+thttp_machine_utils.rl
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/639/branches/1.0/tinyHTTP/ragel/thttp_machine_utils.rl
+END
+thttp_parser_header.rl
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/639/branches/1.0/tinyHTTP/ragel/thttp_parser_header.rl
+END
+thttp_parser_header_Authorization.rl
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/639/branches/1.0/tinyHTTP/ragel/thttp_parser_header_Authorization.rl
+END
+thttp_parser_header_ETag.rl
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/639/branches/1.0/tinyHTTP/ragel/thttp_parser_header_ETag.rl
+END
+thttp_parser_header_WWW_Authenticate.rl
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/639/branches/1.0/tinyHTTP/ragel/thttp_parser_header_WWW_Authenticate.rl
+END
+thttp_machine_message.rl
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/639/branches/1.0/tinyHTTP/ragel/thttp_machine_message.rl
+END
+thttp_machine_header.rl
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/639/branches/1.0/tinyHTTP/ragel/thttp_machine_header.rl
+END
+thttp_parser_header_Transfer_Encoding.rl
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/639/branches/1.0/tinyHTTP/ragel/thttp_parser_header_Transfer_Encoding.rl
+END
+thttp_parser_url.rl
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/639/branches/1.0/tinyHTTP/ragel/thttp_parser_url.rl
+END
+thttp_parser_header_Dummy.rl
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/639/branches/1.0/tinyHTTP/ragel/thttp_parser_header_Dummy.rl
+END
+thttp_parser_header_Content_Length.rl
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/639/branches/1.0/tinyHTTP/ragel/thttp_parser_header_Content_Length.rl
+END
+thttp_parser_header_Content_Type.rl
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/639/branches/1.0/tinyHTTP/ragel/thttp_parser_header_Content_Type.rl
+END

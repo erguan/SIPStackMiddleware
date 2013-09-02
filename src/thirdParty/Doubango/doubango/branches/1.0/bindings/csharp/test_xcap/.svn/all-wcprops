@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/639/branches/1.0/bindings/csharp/test_xcap
+END
+test_xcap.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/639/branches/1.0/bindings/csharp/test_xcap/test_xcap.csproj
+END
+Program.cs
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/639/branches/1.0/bindings/csharp/test_xcap/Program.cs
+END

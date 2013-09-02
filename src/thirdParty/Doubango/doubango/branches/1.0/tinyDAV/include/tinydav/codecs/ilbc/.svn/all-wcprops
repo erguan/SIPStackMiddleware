@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/639/branches/1.0/tinyDAV/include/tinydav/codecs/ilbc
+END
+tdav_codec_ilbc.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/639/branches/1.0/tinyDAV/include/tinydav/codecs/ilbc/tdav_codec_ilbc.h
+END

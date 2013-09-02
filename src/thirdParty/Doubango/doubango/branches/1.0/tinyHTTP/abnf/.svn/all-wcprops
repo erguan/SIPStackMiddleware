@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/639/branches/1.0/tinyHTTP/abnf
+END
+uri.abnf
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/639/branches/1.0/tinyHTTP/abnf/uri.abnf
+END
+http.abnf
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/639/branches/1.0/tinyHTTP/abnf/http.abnf
+END
+httpauth.abnf
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/639/branches/1.0/tinyHTTP/abnf/httpauth.abnf
+END

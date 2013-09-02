@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/826/branches/2.0/doubango/tinyNET/src/stun
+END
+tnet_stun.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/765/branches/2.0/doubango/tinyNET/src/stun/tnet_stun.c
+END
+tnet_stun_attribute.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/765/branches/2.0/doubango/tinyNET/src/stun/tnet_stun_attribute.c
+END
+tnet_stun_message.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/826/branches/2.0/doubango/tinyNET/src/stun/tnet_stun_message.c
+END
+tnet_stun.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/765/branches/2.0/doubango/tinyNET/src/stun/tnet_stun.h
+END
+tnet_stun_attribute.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/765/branches/2.0/doubango/tinyNET/src/stun/tnet_stun_attribute.h
+END
+tnet_stun_message.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/765/branches/2.0/doubango/tinyNET/src/stun/tnet_stun_message.h
+END

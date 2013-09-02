@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/639/branches/1.0/tinyNET/src/dhcp6
+END
+tnet_dhcp6.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/639/branches/1.0/tinyNET/src/dhcp6/tnet_dhcp6.c
+END
+tnet_dhcp6_message.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/639/branches/1.0/tinyNET/src/dhcp6/tnet_dhcp6_message.c
+END
+tnet_dhcp6.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/639/branches/1.0/tinyNET/src/dhcp6/tnet_dhcp6.h
+END
+tnet_dhcp6_duid.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/639/branches/1.0/tinyNET/src/dhcp6/tnet_dhcp6_duid.c
+END
+tnet_dhcp6_option.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/639/branches/1.0/tinyNET/src/dhcp6/tnet_dhcp6_option.c
+END
+tnet_dhcp6_message.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/639/branches/1.0/tinyNET/src/dhcp6/tnet_dhcp6_message.h
+END
+tnet_dhcp6_duid.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/639/branches/1.0/tinyNET/src/dhcp6/tnet_dhcp6_duid.h
+END
+tnet_dhcp6_option.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/639/branches/1.0/tinyNET/src/dhcp6/tnet_dhcp6_option.h
+END

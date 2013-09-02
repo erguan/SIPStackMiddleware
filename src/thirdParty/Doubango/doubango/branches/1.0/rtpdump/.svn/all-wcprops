@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/639/branches/1.0/rtpdump
+END
+h261
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/639/branches/1.0/rtpdump/h261
+END
+g711a
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/639/branches/1.0/rtpdump/g711a
+END
+theora
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/639/branches/1.0/rtpdump/theora
+END
+h264_10
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/639/branches/1.0/rtpdump/h264_10
+END
+speex_nb
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/639/branches/1.0/rtpdump/speex_nb
+END
+h263_cif
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/639/branches/1.0/rtpdump/h263_cif
+END
+h263_qcif
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/639/branches/1.0/rtpdump/h263_qcif
+END
+amrnb_be
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/639/branches/1.0/rtpdump/amrnb_be
+END
+gsm
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/639/branches/1.0/rtpdump/gsm
+END
+g729
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/639/branches/1.0/rtpdump/g729
+END
+ilbc
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/639/branches/1.0/rtpdump/ilbc
+END
+bv16
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/639/branches/1.0/rtpdump/bv16
+END
+amrnb_oa
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/639/branches/1.0/rtpdump/amrnb_oa
+END

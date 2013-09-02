@@ -1,0 +1,49 @@
+10
+
+dir
+994
+http://doubango.googlecode.com/svn/branches/2.0/doubango/thirdparties/win32/bin
+http://doubango.googlecode.com/svn
+
+
+
+2013-07-03T10:13:37.739697Z
+919
+bossiel@yahoo.fr
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+c7b0ae48-b0eb-11de-8bdf-3374eb5c7316
+
+mft_intel
+dir
+
+openssl
+dir
+
+ffmpeg
+dir
+
+curl
+dir
+
+libxml
+dir
+
+pthread
+dir
+
+win-iconv
+dir
+

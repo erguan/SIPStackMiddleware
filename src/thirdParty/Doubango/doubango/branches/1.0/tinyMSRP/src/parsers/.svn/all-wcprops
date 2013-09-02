@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/639/branches/1.0/tinyMSRP/src/parsers
+END
+tmsrp_parser_uri.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/639/branches/1.0/tinyMSRP/src/parsers/tmsrp_parser_uri.c
+END
+tmsrp_parser_message.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/639/branches/1.0/tinyMSRP/src/parsers/tmsrp_parser_message.c
+END

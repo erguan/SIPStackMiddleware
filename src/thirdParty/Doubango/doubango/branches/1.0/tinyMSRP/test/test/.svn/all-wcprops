@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/639/branches/1.0/tinyMSRP/test/test
+END
+stdafx.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/639/branches/1.0/tinyMSRP/test/test/stdafx.h
+END
+test.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/639/branches/1.0/tinyMSRP/test/test/test.c
+END
+test_parser.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/639/branches/1.0/tinyMSRP/test/test/test_parser.h
+END
+test.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/639/branches/1.0/tinyMSRP/test/test/test.vcproj
+END
+test_uri.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/639/branches/1.0/tinyMSRP/test/test/test_uri.h
+END
+test_session.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/639/branches/1.0/tinyMSRP/test/test/test_session.h
+END
+targetver.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/639/branches/1.0/tinyMSRP/test/test/targetver.h
+END
+stdafx.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/639/branches/1.0/tinyMSRP/test/test/stdafx.c
+END

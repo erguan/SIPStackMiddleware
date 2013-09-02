@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/639/branches/1.0/thirdparties/win32/lib/pthread
+END
+pthreadVC2.lib
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/639/branches/1.0/thirdparties/win32/lib/pthread/pthreadVC2.lib
+END
+pthread.lib
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/639/branches/1.0/thirdparties/win32/lib/pthread/pthread.lib
+END
+pthreadVCE2.lib
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/639/branches/1.0/thirdparties/win32/lib/pthread/pthreadVCE2.lib
+END
+pthreadVSE2.lib
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/639/branches/1.0/thirdparties/win32/lib/pthread/pthreadVSE2.lib
+END

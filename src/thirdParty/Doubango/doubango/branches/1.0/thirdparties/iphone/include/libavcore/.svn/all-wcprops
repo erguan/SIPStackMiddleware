@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/639/branches/1.0/thirdparties/iphone/include/libavcore
+END
+parseutils.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/639/branches/1.0/thirdparties/iphone/include/libavcore/parseutils.h
+END
+imgutils.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/639/branches/1.0/thirdparties/iphone/include/libavcore/imgutils.h
+END
+avcore.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/639/branches/1.0/thirdparties/iphone/include/libavcore/avcore.h
+END

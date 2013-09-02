@@ -1,0 +1,257 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/880/branches/2.0/doubango/thirdparties/android/lib
+END
+libiLBC.a
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/559/branches/2.0/doubango/thirdparties/android/lib/libiLBC.a
+END
+libbv16.a
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/559/branches/2.0/doubango/thirdparties/android/lib/libbv16.a
+END
+libwebrtc_aecm_armv5te.a
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/740/branches/2.0/doubango/thirdparties/android/lib/libwebrtc_aecm_armv5te.a
+END
+libopencore-amrwb.a
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/559/branches/2.0/doubango/thirdparties/android/lib/libopencore-amrwb.a
+END
+libwebrtc_system_wrappers_armv5te.a
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/740/branches/2.0/doubango/thirdparties/android/lib/libwebrtc_system_wrappers_armv5te.a
+END
+libwebrtc_nsx_armv5te.a
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/740/branches/2.0/doubango/thirdparties/android/lib/libwebrtc_nsx_armv5te.a
+END
+libtheora.a
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/559/branches/2.0/doubango/thirdparties/android/lib/libtheora.a
+END
+libcrypto_armv5te.a
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/688/branches/2.0/doubango/thirdparties/android/lib/libcrypto_armv5te.a
+END
+libg729b_armv7-a.a
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/717/branches/2.0/doubango/thirdparties/android/lib/libg729b_armv7-a.a
+END
+libspeex.a
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/742/branches/2.0/doubango/thirdparties/android/lib/libspeex.a
+END
+libyuv_armv5te.a
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/738/branches/2.0/doubango/thirdparties/android/lib/libyuv_armv5te.a
+END
+libsrtp.a
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/869/branches/2.0/doubango/thirdparties/android/lib/libsrtp.a
+END
+libwebrtc_ns_armv5te.a
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/740/branches/2.0/doubango/thirdparties/android/lib/libwebrtc_ns_armv5te.a
+END
+libvorbisenc.a
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/559/branches/2.0/doubango/thirdparties/android/lib/libvorbisenc.a
+END
+libssl_armv7-a.a
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/688/branches/2.0/doubango/thirdparties/android/lib/libssl_armv7-a.a
+END
+libtheoradec.a
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/559/branches/2.0/doubango/thirdparties/android/lib/libtheoradec.a
+END
+libwebrtc_aec_armv5te.a
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/740/branches/2.0/doubango/thirdparties/android/lib/libwebrtc_aec_armv5te.a
+END
+libvorbis.a
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/559/branches/2.0/doubango/thirdparties/android/lib/libvorbis.a
+END
+libwebrtc_aecm_armv7-a.a
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/740/branches/2.0/doubango/thirdparties/android/lib/libwebrtc_aecm_armv7-a.a
+END
+libwebrtc_spl_armv5te.a
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/740/branches/2.0/doubango/thirdparties/android/lib/libwebrtc_spl_armv5te.a
+END
+libopencore-amrnb.a
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/559/branches/2.0/doubango/thirdparties/android/lib/libopencore-amrnb.a
+END
+libwebrtc_system_wrappers_armv7-a.a
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/740/branches/2.0/doubango/thirdparties/android/lib/libwebrtc_system_wrappers_armv7-a.a
+END
+libwebrtc_nsx_armv7-a.a
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/740/branches/2.0/doubango/thirdparties/android/lib/libwebrtc_nsx_armv7-a.a
+END
+libwebrtc_apm_utility_armv5te.a
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/740/branches/2.0/doubango/thirdparties/android/lib/libwebrtc_apm_utility_armv5te.a
+END
+libcrypto_armv7-a.a
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/688/branches/2.0/doubango/thirdparties/android/lib/libcrypto_armv7-a.a
+END
+libogg.a
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/559/branches/2.0/doubango/thirdparties/android/lib/libogg.a
+END
+libyuv_armv7-a.a
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/738/branches/2.0/doubango/thirdparties/android/lib/libyuv_armv7-a.a
+END
+libvpx_armv5te.a
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/742/branches/2.0/doubango/thirdparties/android/lib/libvpx_armv5te.a
+END
+libwebrtc_ns_armv7-a.a
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/740/branches/2.0/doubango/thirdparties/android/lib/libwebrtc_ns_armv7-a.a
+END
+libopencore-amrnb.la
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/765/branches/2.0/doubango/thirdparties/android/lib/libopencore-amrnb.la
+END
+libgsm.a
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/559/branches/2.0/doubango/thirdparties/android/lib/libgsm.a
+END
+libopus.a
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/880/branches/2.0/doubango/thirdparties/android/lib/libopus.a
+END
+libwebrtc_aec_armv7-a.a
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/740/branches/2.0/doubango/thirdparties/android/lib/libwebrtc_aec_armv7-a.a
+END
+libspeexdsp.a
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/742/branches/2.0/doubango/thirdparties/android/lib/libspeexdsp.a
+END
+libopencore-amrwb.la
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/765/branches/2.0/doubango/thirdparties/android/lib/libopencore-amrwb.la
+END
+libg729b_armv5te.a
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/717/branches/2.0/doubango/thirdparties/android/lib/libg729b_armv5te.a
+END
+libwebrtc_spl_armv7-a.a
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/740/branches/2.0/doubango/thirdparties/android/lib/libwebrtc_spl_armv7-a.a
+END
+libwebrtc_apm_utility_armv7-a.a
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/740/branches/2.0/doubango/thirdparties/android/lib/libwebrtc_apm_utility_armv7-a.a
+END
+libssl_armv5te.a
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/688/branches/2.0/doubango/thirdparties/android/lib/libssl_armv5te.a
+END
+libvorbisfile.a
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/559/branches/2.0/doubango/thirdparties/android/lib/libvorbisfile.a
+END
+libvpx_armv7-a.a
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/742/branches/2.0/doubango/thirdparties/android/lib/libvpx_armv7-a.a
+END
+libtheoraenc.a
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/559/branches/2.0/doubango/thirdparties/android/lib/libtheoraenc.a
+END

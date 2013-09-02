@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/639/branches/1.0/tinyIPSec/test
+END
+stdafx.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/639/branches/1.0/tinyIPSec/test/stdafx.h
+END
+test.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/639/branches/1.0/tinyIPSec/test/test.c
+END
+test.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/639/branches/1.0/tinyIPSec/test/test.vcproj
+END
+stdafx.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/639/branches/1.0/tinyIPSec/test/stdafx.c
+END
+droid-makefile
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/639/branches/1.0/tinyIPSec/test/droid-makefile
+END

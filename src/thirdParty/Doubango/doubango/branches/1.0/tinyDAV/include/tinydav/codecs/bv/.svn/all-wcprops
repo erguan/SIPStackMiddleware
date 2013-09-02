@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/639/branches/1.0/tinyDAV/include/tinydav/codecs/bv
+END
+tdav_codec_bv16.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/639/branches/1.0/tinyDAV/include/tinydav/codecs/bv/tdav_codec_bv16.h
+END
+tdav_codec_bv32.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/639/branches/1.0/tinyDAV/include/tinydav/codecs/bv/tdav_codec_bv32.h
+END

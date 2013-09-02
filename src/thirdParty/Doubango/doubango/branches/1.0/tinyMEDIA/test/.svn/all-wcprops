@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/639/branches/1.0/tinyMEDIA/test
+END
+test.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/639/branches/1.0/tinyMEDIA/test/test.c
+END
+test.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/639/branches/1.0/tinyMEDIA/test/test.vcproj
+END
+dummy.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/639/branches/1.0/tinyMEDIA/test/dummy.h
+END
+test_contents.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/639/branches/1.0/tinyMEDIA/test/test_contents.h
+END
+test_codecs.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/639/branches/1.0/tinyMEDIA/test/test_codecs.h
+END
+test_qos.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/639/branches/1.0/tinyMEDIA/test/test_qos.h
+END
+test_sessions.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/639/branches/1.0/tinyMEDIA/test/test_sessions.h
+END
+droid-makefile
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/639/branches/1.0/tinyMEDIA/test/droid-makefile
+END
+dummy.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/639/branches/1.0/tinyMEDIA/test/dummy.c
+END

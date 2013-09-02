@@ -1,0 +1,15 @@
+K 10
+svn:ignore
+V 57
+*.tmp
+.settings
+bin
+gen
+html
+latex
+rtf
+wiki
+xml
+lint.xml
+
+END

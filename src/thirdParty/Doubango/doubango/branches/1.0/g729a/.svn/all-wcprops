@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/639/branches/1.0/g729a
+END
+lower.sh
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/639/branches/1.0/g729a/lower.sh
+END
+g729a.sln
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/639/branches/1.0/g729a/g729a.sln
+END
+g729a.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/639/branches/1.0/g729a/g729a.vcproj
+END
+droid-makefile
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/639/branches/1.0/g729a/droid-makefile
+END
+export.def
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/639/branches/1.0/g729a/export.def
+END

@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/880/branches/2.0/doubango/plugins/audio_opensles
+END
+dllmain.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/765/branches/2.0/doubango/plugins/audio_opensles/dllmain.cxx
+END
+audio_opensles_config.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/847/branches/2.0/doubango/plugins/audio_opensles/audio_opensles_config.h
+END
+audio_opensles_consumer.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/880/branches/2.0/doubango/plugins/audio_opensles/audio_opensles_consumer.cxx
+END
+audio_opensles_device.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/869/branches/2.0/doubango/plugins/audio_opensles/audio_opensles_device.cxx
+END
+audio_opensles.d
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/847/branches/2.0/doubango/plugins/audio_opensles/audio_opensles.d
+END
+audio_opensles_device_impl.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/740/branches/2.0/doubango/plugins/audio_opensles/audio_opensles_device_impl.h
+END
+audio_opensles.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/847/branches/2.0/doubango/plugins/audio_opensles/audio_opensles.h
+END
+audio_opensles_producer.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/765/branches/2.0/doubango/plugins/audio_opensles/audio_opensles_producer.h
+END
+audio_opensles.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/869/branches/2.0/doubango/plugins/audio_opensles/audio_opensles.cxx
+END
+audio_opensles_device_impl.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/740/branches/2.0/doubango/plugins/audio_opensles/audio_opensles_device_impl.cxx
+END
+audio_opensles_consumer.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/765/branches/2.0/doubango/plugins/audio_opensles/audio_opensles_consumer.h
+END
+audio_opensles.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/765/branches/2.0/doubango/plugins/audio_opensles/audio_opensles.vcproj
+END
+droid-makefile
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/765/branches/2.0/doubango/plugins/audio_opensles/droid-makefile
+END
+audio_opensles_producer.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/880/branches/2.0/doubango/plugins/audio_opensles/audio_opensles_producer.cxx
+END
+makefile
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/765/branches/2.0/doubango/plugins/audio_opensles/makefile
+END
+audio_opensles_device.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/740/branches/2.0/doubango/plugins/audio_opensles/audio_opensles_device.h
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/639/branches/1.0/thirdparties/wince/include/wcecompat/sys
+END
+stat.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/639/branches/1.0/thirdparties/wince/include/wcecompat/sys/stat.h
+END
+timeb.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/639/branches/1.0/thirdparties/wince/include/wcecompat/sys/timeb.h
+END
+types.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/639/branches/1.0/thirdparties/wince/include/wcecompat/sys/types.h
+END

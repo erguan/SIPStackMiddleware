@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/639/branches/1.0/tinyDAV/src/audio
+END
+tdav_producer_audio.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/639/branches/1.0/tinyDAV/src/audio/tdav_producer_audio.c
+END
+tdav_session_audio.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/639/branches/1.0/tinyDAV/src/audio/tdav_session_audio.c
+END
+tdav_speex_denoise.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/639/branches/1.0/tinyDAV/src/audio/tdav_speex_denoise.c
+END
+tdav_jitterbuffer.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/639/branches/1.0/tinyDAV/src/audio/tdav_jitterbuffer.c
+END
+tdav_consumer_audio.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/639/branches/1.0/tinyDAV/src/audio/tdav_consumer_audio.c
+END

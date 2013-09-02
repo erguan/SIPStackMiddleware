@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/639/branches/1.0/thirdparties/win32/bin/libxml
+END
+libxml2-2.dll
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/639/branches/1.0/thirdparties/win32/bin/libxml/libxml2-2.dll
+END
+xmllint.exe
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/639/branches/1.0/thirdparties/win32/bin/libxml/xmllint.exe
+END
+xmlcatalog.exe
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/639/branches/1.0/thirdparties/win32/bin/libxml/xmlcatalog.exe
+END

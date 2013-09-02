@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/639/branches/1.0/thirdparties/win32/bin/openssl
+END
+ssleay32.dll
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/639/branches/1.0/thirdparties/win32/bin/openssl/ssleay32.dll
+END
+openssl.exe
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/639/branches/1.0/thirdparties/win32/bin/openssl/openssl.exe
+END
+libeay32.dll
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/639/branches/1.0/thirdparties/win32/bin/openssl/libeay32.dll
+END

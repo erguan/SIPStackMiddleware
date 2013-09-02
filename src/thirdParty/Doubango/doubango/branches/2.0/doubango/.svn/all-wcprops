@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/994/branches/2.0/doubango
+END
+configure.ac
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/989/branches/2.0/doubango/configure.ac
+END
+doubango.pc.in
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/898/branches/2.0/doubango/doubango.pc.in
+END
+version_w32.sh
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/964/branches/2.0/doubango/version_w32.sh
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/988/branches/2.0/doubango/Makefile.am
+END
+autogen.sh
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/787/branches/2.0/doubango/autogen.sh
+END
+contributors.txt
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/765/branches/2.0/doubango/contributors.txt
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/639/branches/1.0/tinyDAV/src/audio/directsound
+END
+tdav_consumer_dsound.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/639/branches/1.0/tinyDAV/src/audio/directsound/tdav_consumer_dsound.c
+END
+tdav_producer_dsound.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/639/branches/1.0/tinyDAV/src/audio/directsound/tdav_producer_dsound.c
+END

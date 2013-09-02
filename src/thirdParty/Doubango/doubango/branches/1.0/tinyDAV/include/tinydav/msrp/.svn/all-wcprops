@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/639/branches/1.0/tinyDAV/include/tinydav/msrp
+END
+tdav_consumer_msrp.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/639/branches/1.0/tinyDAV/include/tinydav/msrp/tdav_consumer_msrp.h
+END
+tdav_session_msrp.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/639/branches/1.0/tinyDAV/include/tinydav/msrp/tdav_session_msrp.h
+END
+tdav_producer_msrp.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/639/branches/1.0/tinyDAV/include/tinydav/msrp/tdav_producer_msrp.h
+END

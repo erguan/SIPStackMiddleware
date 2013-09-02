@@ -1,0 +1,92 @@
+10
+
+dir
+556
+http://imsdroid.googlecode.com/svn/branches/2.0
+http://imsdroid.googlecode.com/svn
+
+
+
+2013-08-01T03:25:28.799406Z
+556
+bossiel@yahoo.fr
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+088c1f0a-aade-f869-c05e-f0c1bd8791d0
+
+apk-debug
+dir
+
+android-ngn-stack
+dir
+
+images
+dir
+
+testT140
+dir
+
+android-ngn-stack-00.pdf
+file
+
+
+
+
+2013-09-02T03:01:36.000000Z
+02e5fac934fd7290f6d9155b1da98b69
+2012-09-03T06:58:24.560008Z
+515
+bossiel@yahoo.fr
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+386011
+
+native-debug
+dir
+
+testRegistration
+dir
+
+imsdroid
+dir
+
+tests-apk
+dir
+
+testCall
+dir
+
+myFirstApp
+dir
+
